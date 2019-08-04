@@ -27,7 +27,7 @@ public class SignupProfile {
     private Integer weight; // in kg
     private Integer annualIncome; // in USD
     private String personalMotto;
-
+// just a new comment
     public SignupProfile(){
 
     }
